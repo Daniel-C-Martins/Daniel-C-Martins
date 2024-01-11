@@ -1,15 +1,16 @@
 <h1> Hi there, i'm Daniel Martins, welcome to my profile 👋 </h1>
 
-<div style: "display: inline_block">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Martins&layout=compact&theme=city_lights&hide_border=true" /></a> 
-  <a href="https://github.com/Daniel-C-Martins"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-C-Martins&show_icons=true&theme=city_lights&hide_border=true" alt="Daniel' githubs stats" /></a>
-</div>
 <hr>
 <p> - I'm currently studying computer science in PUCRS </p>
 <p> - I'm 19 years old  </p>
 <p> - I am currently learning more about programming languages ​​such as Python, Java and C </p>
 <p> - Email for contact: martins.daniel23@edu.pucrs.br </p>
-
+<hr>
+<h2> </h2>
+<div align= "center">
+  <img width= "45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-C-Martins&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=onedark&hide_border=true&order=2"/>
+  <img width="50%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-C-Martins&theme=onedark&hide_border=true"/>
+</div>
 
 
 
