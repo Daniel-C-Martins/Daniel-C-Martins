@@ -9,6 +9,6 @@
   <a href="https://github.com/Daniel-C-Martins"><img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-C-Martins&show_icons=true&theme=city_lights&hide_border=true" alt="Daniel' githubs stats" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Martins&layout=compact&theme=city_lights&hide_border=true" /></a> 
 </div>
-
+<a href="mailto:danielcamposm8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
