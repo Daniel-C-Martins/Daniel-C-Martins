@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<hr>
 <!--
 **Daniel-C-Martins/Daniel-C-Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
