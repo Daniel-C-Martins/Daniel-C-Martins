@@ -8,8 +8,8 @@
 
 <h2> </h2>
 <div align= "center">
-  <img width= "40%"src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-C-Martins&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=onedark&hide_border=true&order=2"/>
-  <img width="56%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-C-Martins&theme=onedark&hide_border=true"/>
+  <img width= "45%"src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniel-C-Martins&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=onedark&hide_border=true&order=2"/>
+  <img width="54%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel-C-Martins&theme=onedark&hide_border=true"/>
 </div>
 
 
