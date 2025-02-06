@@ -1,7 +1,6 @@
 <h1> Hi there, i'm Daniel Martins, welcome to my profile 👋 </h1>
 
 <p> - I'm currently studying computer science in PUCRS 🎓 </p>
-<p> - I'm currently a student on the online technology training platform Alura 📕 </p>
 <p> - I'm 20 years old ⌛ </p>
 <p> - I'm currently learning more about programming languages ​​such as Python, Java and C 💻 </p>
 <p> - Email for contact: martins.daniel23@edu.pucrs.br 📧 </p>
